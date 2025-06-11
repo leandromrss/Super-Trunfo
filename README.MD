@@ -45,19 +45,16 @@ Editar
 make
 Para executar:
 bash
-Copiar
-Editar
+
 ./supertrunfo.exe     # No Windows
 ./supertrunfo         # No Linux/macOS
 Para limpar os arquivos gerados:
 bash
-Copiar
-Editar
+
 make clean
 ✨ Exemplo de Uso
 yaml
-Copiar
-Editar
+
 === Super Trunfo de Paises ===
 1 - Cadastrar nova cidade
 2 - Listar cartas
